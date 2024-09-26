@@ -2,5 +2,5 @@ import React from 'react'
 
 export default function Home() 
 {
-  return <div>Welcome Home</div>
+  return <div><strong>Welcome Home</strong></div>
 }
